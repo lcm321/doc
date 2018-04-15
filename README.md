@@ -1,2 +1,2 @@
 # doc
-open doc
+This is a 
